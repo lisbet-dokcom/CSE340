@@ -174,7 +174,7 @@ height: 65px;
   html {
     max-width: 500px;
     margin: 0 auto;
-    padding: none;
+    padding: 0;
     background-image: none;
   }
 
@@ -219,7 +219,7 @@ height: 65px;
 
   .reviews ul li {
   margin: 1rem;
-  padding: none;
+  padding: 0;
   }
 
 }
